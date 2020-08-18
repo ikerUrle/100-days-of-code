@@ -19,3 +19,13 @@ You can check out the rules of this challenge [here](rules.md)
 
 **Link(s) to work**
 1. [Coin Toss!](https://codepen.io/ikerUrle/pen/mdPPZza)
+
+### Day 3: August 18, Tuesday 
+
+**Today's Progress**: Created a #100DaysOfCode banner to include on all of the new projects. I learnt basic CSS animations and positioning.
+
+**Thoughts**: Simple CSS animations are easy to make but I'm not used to CSS positioning yet.
+
+**Link(s) to work**
+1. [#100DaysOfCode Banner](https://codepen.io/ikerUrle/full/rNeLqOZ)
+
