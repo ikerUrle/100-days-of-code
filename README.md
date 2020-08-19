@@ -29,3 +29,12 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [#100DaysOfCode Banner](https://codepen.io/ikerUrle/full/rNeLqOZ)
 
+### Day 4: August 19, Wednesday
+
+**Today's Progress**: Forked [no-ip-renew](https://github.com/loblab/noip-renew) repo to make the script compatible with Arch Linux.
+
+**Thoughts**: It's the first time I try to contribute to a FOSS project. It feels good!!
+
+**Link(s) to work**
+1. [Fork](https://github.com/ikerUrle/noip-renew)
+2. [Pull request](https://github.com/loblab/noip-renew/pull/34)
