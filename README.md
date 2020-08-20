@@ -38,3 +38,12 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Fork](https://github.com/ikerUrle/noip-renew)
 2. [Pull request](https://github.com/loblab/noip-renew/pull/34)
+
+### Day 5: August 20, Thursday 
+
+**Today's Progress**: Updated the #100DaysOfCode banner and created a Social Media card to embed on websites.
+
+**Thoughts**: I'm starting to feel more confident using CSS, may start learning SASS soon.
+
+**Link(s) to work**
+1. [Social Card](https://codepen.io/ikerUrle/full/RwaGLLr)
