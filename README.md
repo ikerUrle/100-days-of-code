@@ -47,3 +47,12 @@ You can check out the rules of this challenge [here](rules.md)
 
 **Link(s) to work**
 1. [Social Card](https://codepen.io/ikerUrle/full/RwaGLLr)
+
+### Day 6: August 21, Friday
+
+**Today's Progress**: Built a button that shows the previously created Social Media banner as a Modal.
+
+**Thoughts**: I want to start building a more complex website to include all the designs I have been creating, but I may create some more simple designs first.
+
+**Link(s) to work**
+1. [Social Card Modal](https://codepen.io/ikerUrle/full/GRZNxJr)
