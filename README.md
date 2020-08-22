@@ -56,3 +56,13 @@ You can check out the rules of this challenge [here](rules.md)
 
 **Link(s) to work**
 1. [Social Card Modal](https://codepen.io/ikerUrle/full/GRZNxJr)
+
+### Day 7: August 22, Saturday
+
+**Today's Progress**: I started learning SASS!! I took all of the code I created on Codepen and started building my personal website (using SASS). Front page of the website is pretty much finished.
+
+**Thoughts**: I love SASS! It feels like using pure CSS but it is super clean.
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
