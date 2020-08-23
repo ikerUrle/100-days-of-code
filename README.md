@@ -66,3 +66,13 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+### Day 8: August 23, Sunday
+
+**Today's Progress**: Small progress on my website. I created an "about me" card, but I'm still thinking about the general design of the site. 
+
+**Thoughts**: I'm really picky with the decisions I make around the design. Tomorrow I may change everything all over again. I'm a mess. 
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
