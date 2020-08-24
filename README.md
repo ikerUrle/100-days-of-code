@@ -76,3 +76,12 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+### Day 9: August 24, Monday
+
+**Today's Progress**: I keep working on the "about me" page and I added a "projects" page. I made the page scroll when I "click" but I want to make it work with the simple scroll. Still working on it.
+
+**Thoughts**: I still feel clumsy positioning certain items with CSS. 
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
