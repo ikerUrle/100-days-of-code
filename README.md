@@ -85,3 +85,14 @@ You can check out the rules of this challenge [here](rules.md)
 
 **Link(s) to work**
 1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+### Day 10: August 25, Tuesday
+
+**Today's Progress**: Version 1.0 of my personal website is ready!! Right now it is only meant to be used as a desktop site, mobile version comming "soon". 
+
+**Thoughts**: I like how the version 1.0 looks. I will add some more features but it is a good place to start!
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
