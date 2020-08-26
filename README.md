@@ -96,3 +96,13 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+### Day 11: August 26, Wednesday
+
+**Today's Progress**: Implemented Full Page scroll on my website!!
+
+**Thoughts**: I was using event "scroll" instead of "using" wheel which is much easier to implement :see_no_evil:
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
