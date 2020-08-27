@@ -106,3 +106,13 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+### Day 12: August 27, Thursday
+
+**Today's Progress**: Small tweaks on the page design and changes to make it more responsive on different screen sizes.
+
+**Thoughts**: I've been thinking about the design of the page for mobile and small screen devices.
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
