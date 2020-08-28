@@ -116,3 +116,13 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+### Day 13: August 28, Friday
+
+**Today's Progress**: Personal website is now responsive on mobile devices!
+
+**Thoughts**: The webpage is now working on mobile and desktop devices. The design is not finished but It is a functional web now.
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
