@@ -126,3 +126,14 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+### Day 14: August 29, Saturday
+
+**Today's Progress**: I took a project I did for a subject and gave it a look enhancement, and decided to deploy it on Heroku so everyone can play it!
+
+**Thoughts**: Changing the look of the project I realized that I am quite better at CSS than I was before!
+
+**Link(s) to work**
+1. [Game!](https://super-pang-html5.herokuapp.com/)
+2. [Github repo](https://github.com/ikerUrle/super-pang-html5)
+
