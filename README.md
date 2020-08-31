@@ -137,3 +137,11 @@ You can check out the rules of this challenge [here](rules.md)
 1. [Game!](https://super-pang-html5.herokuapp.com/)
 2. [Github repo](https://github.com/ikerUrle/super-pang-html5)
 
+### Day 15: August 31, Monday
+
+**Today's Progress**: Decided to start working with React! I started building a News Feed page.
+
+**Thoughts**: I wanted to learn pure JS and CSS more in-depth before starting with frameworks and I think I am ready!
+
+**Link(s) to work**
+1. [Github repo](https://github.com/ikerUrle/news-page)
