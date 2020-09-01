@@ -145,3 +145,12 @@ You can check out the rules of this challenge [here](rules.md)
 
 **Link(s) to work**
 1. [Github repo](https://github.com/ikerUrle/news-page)
+
+### Day 16: September 1, Tuesday
+
+**Today's Progress**: Created an animated searchbar for the news page.
+
+**Thoughts**: Sass integration on React was super simple, I really love using Sass.
+
+**Link(s) to work**
+1. [Github repo](https://github.com/ikerUrle/news-page)
