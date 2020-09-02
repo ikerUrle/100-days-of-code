@@ -154,3 +154,12 @@ You can check out the rules of this challenge [here](rules.md)
 
 **Link(s) to work**
 1. [Github repo](https://github.com/ikerUrle/news-page)
+
+### Day 17: September 2, Wednesday
+
+**Today's Progress**: First version of "React News" is ready!
+
+**Thoughts**: I had a little bit of trouble with CORS policies on the News API but I ended up fixing it. I don't like the fix so I'll try to make it work on a different way later.
+
+**Link(s) to work**
+1. [Github repo](https://github.com/ikerUrle/news-page)
