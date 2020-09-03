@@ -163,3 +163,13 @@ You can check out the rules of this challenge [here](rules.md)
 
 **Link(s) to work**
 1. [Github repo](https://github.com/ikerUrle/news-page)
+
+### Day 18: September 3, Tuesday
+
+**Today's Progress**: I had to change the API I was using to be able to deploy the page on Github pages, so I made the change and worked on minor fixes.
+
+**Thoughts**: I have to clean-up the code a little bit, I was focused on making the API work and not writing good code to be honest.
+
+**Link(s) to work**
+1. [Github repo](https://github.com/ikerUrle/news-page)
+2. [React news](https://ikerurle.github.io/news-page/)
