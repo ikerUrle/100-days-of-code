@@ -64,7 +64,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Thoughts**: I love SASS! It feels like using pure CSS but it is super clean.
 
 **Link(s) to work**
-1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
 
 ### Day 8: August 23, Sunday
@@ -74,7 +74,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Thoughts**: I'm really picky with the decisions I make around the design. Tomorrow I may change everything all over again. I'm a mess. 
 
 **Link(s) to work**
-1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
 
 ### Day 9: August 24, Monday
@@ -84,7 +84,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Thoughts**: I still feel clumsy positioning certain items with CSS. 
 
 **Link(s) to work**
-1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
 
 ### Day 10: August 25, Tuesday
@@ -94,7 +94,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Thoughts**: I like how the version 1.0 looks. I will add some more features but it is a good place to start!
 
 **Link(s) to work**
-1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
 
 ### Day 11: August 26, Wednesday
@@ -104,7 +104,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Thoughts**: I was using event "scroll" instead of "using" wheel which is much easier to implement :see_no_evil:
 
 **Link(s) to work**
-1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
 
 ### Day 12: August 27, Thursday
@@ -114,7 +114,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Thoughts**: I've been thinking about the design of the page for mobile and small screen devices.
 
 **Link(s) to work**
-1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
 
 ### Day 13: August 28, Friday
@@ -124,7 +124,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Thoughts**: The webpage is now working on mobile and desktop devices. The design is not finished but It is a functional web now.
 
 **Link(s) to work**
-1. [Personal Website](https://ikerurle-personal-website.herokuapp.com/)
+1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
 
 ### Day 14: August 29, Saturday
@@ -134,7 +134,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Thoughts**: Changing the look of the project I realized that I am quite better at CSS than I was before!
 
 **Link(s) to work**
-1. [Game!](https://super-pang-html5.herokuapp.com/)
+1. [Game!](https://ikerurle.github.io/super-pang-html5)
 2. [Github repo](https://github.com/ikerUrle/super-pang-html5)
 
 ### Day 15: August 31, Monday
@@ -169,6 +169,16 @@ You can check out the rules of this challenge [here](rules.md)
 **Today's Progress**: I had to change the API I was using to be able to deploy the page on Github pages, so I made the change and worked on minor fixes.
 
 **Thoughts**: I have to clean-up the code a little bit, I was focused on making the API work and not writing good code to be honest.
+
+**Link(s) to work**
+1. [Github repo](https://github.com/ikerUrle/news-page)
+2. [React news](https://ikerurle.github.io/news-page/)
+
+### Day 19: September 4, Friday
+
+**Today's Progress**: News page is functional! I want to call this version 1.0 but I know I'll be changing something so v0.2 it is!
+
+**Thoughts**: I feel like more features can be added to the page so I may come back and add some!
 
 **Link(s) to work**
 1. [Github repo](https://github.com/ikerUrle/news-page)
