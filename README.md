@@ -183,3 +183,13 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Github repo](https://github.com/ikerUrle/news-page)
 2. [React news](https://ikerurle.github.io/news-page/)
+
+### Day 20: September 6, Sunday
+
+**Today's Progress**: Created a Random Picker app on Reactjs. I could have built the same app using pure js but I want to keep using React.
+
+**Thoughts**: I have to fix some weird behaviour on mobille but the app is functional!
+
+**Link(s) to work**
+1. [Github repo](https://github.com/ikerUrle/random-picker)
+2. [Random Picker](https://ikerurle.github.io/random-picker)
