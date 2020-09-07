@@ -193,3 +193,13 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Github repo](https://github.com/ikerUrle/random-picker)
 2. [Random Picker](https://ikerurle.github.io/random-picker)
+
+### Day 21: September 7, Monday
+
+**Today's Progress**: Went back to the portfolio site and polished the design.
+
+**Thoughts**: I feel like the page is now more consistent across devices.
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle.github.io)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
