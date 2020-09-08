@@ -203,3 +203,13 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+### Day 22: September 8, Tuesday
+
+**Today's Progress**: Changed the look of Super Pang HTML5 (again) to give it a more personal look.
+
+**Thoughts**: The previous design looked like a template, I think it looks more personal now.
+
+**Link(s) to work**
+1. [Game!](https://ikerurle.github.io/super-pang-html5)
+2. [Github repo](https://github.com/ikerUrle/super-pang-html5)
