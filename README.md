@@ -213,3 +213,13 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Game!](https://ikerurle.github.io/super-pang-html5)
 2. [Github repo](https://github.com/ikerUrle/super-pang-html5)
+
+### Day 23: September 9, Wednesday
+
+**Today's Progress**: I keep on working on my portfolio site. Today I changed the projects page to add links.
+
+**Thoughts**: I spend most of the time choosing colors. It is the hardest part for me.
+
+**Link(s) to work**
+1. [Personal Website](https://ikerurle.github.io)
+2. [Github repo](https://github.com/ikerUrle/personal-website)
