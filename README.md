@@ -223,3 +223,7 @@ You can check out the rules of this challenge [here](rules.md)
 **Link(s) to work**
 1. [Personal Website](https://ikerurle.github.io)
 2. [Github repo](https://github.com/ikerUrle/personal-website)
+
+## I got a full-time job as a Software Developer!!
+That means #100DaysOfCode is over for me. :see_no_evil:
+
